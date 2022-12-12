@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(png-clipart-black-crystal-illustration-light-desktop-blue-black-cyan-black-background-purple-blue.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 125vh;
+    color: aqua;
+    
+    font-family: 'Times New Roman', Times, serif;
+       
+}
+#second{
+    margin-top: 50px;
+    text-shadow: 2px 2px 5px rgb(137, 175, 208); 
+    word-spacing: 2mm;
+    text-align: center;
+    /* transition: all 4s ease-in-out; */
+    
+}   
+#third{
+    margin: 20px;
+    word-spacing: 1.5mm;
+    text-align: center;
+}
+form{
+    margin: 100px;
+    padding: 0px;
+    text-align: center;
+}
+.sixth{
+    margin: 15px;
+    padding: 0px;
+    
+    border-bottom:1px solid rgba(40, 235, 235, 0.685) ;
+    border-top: 0mm;
+    border-left: 0mm;
+    border-right: 0mm;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+    background: transparent;
+    font-size: medium;
+    color: aliceblue;
+    
+}
+internal-autofill-selected {
+    appearance: menulist-button;
+    background-image: none !important;
+    background-color: transparent !important;
+    color: fieldtext !important;
+}
+.sixth:hover{
+    background: transparent;
+    border-right:1px solid rgba(40, 235, 235, 0.685) ;
+    
+}
+
+.seventh{
+    width: 125px;
+    height: 40px;
+    border: 1px solid aqua;
+    background:transparent;
+    color: aqua;
+    border-radius: 5px;
+}
+.seventh:hover{
+   box-shadow: 3px 3px 3px 3px aqua;
+
+}
+.labels{
+    margin: 10px;
+    padding: 0px;
+    color: aqua;
+    /* text-align:right; */
+    /* text-align: left; */
+}
+.text{
+    margin: 15px;
+    padding: 0px;
+    
+    border-bottom:1px solid rgba(40, 235, 235, 0.685) ;
+    border-top: 0mm;
+    border-left: 0mm;
+    border-right: 0mm;
+    width: 300px;
+    height: 100px;
+    border-radius: 5px;
+    background: transparent;
+    font-size: medium;
+    color: aliceblue;
+}
+.text:hover{
+    background: transparent;
+    border-right:1px solid rgba(40, 235, 235, 0.685) ;
+    
+}
+
+
